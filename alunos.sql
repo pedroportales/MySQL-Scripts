@@ -1,3 +1,7 @@
+/*
+by Pedro Portales
+*/
+
 create database alunoSenai;
 use alunoSenai;
 
